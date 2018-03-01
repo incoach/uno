@@ -1,0 +1,19 @@
+{
+  "name": "nueve",
+  "version": "1.0.0",
+  "description": "describe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incoach/uno.git"
+  },
+  "author": "yomero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incoach/uno/issues"
+  },
+  "homepage": "https://github.com/incoach/uno#readme"
+}
